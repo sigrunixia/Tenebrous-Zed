@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian
+
+# Editors and IDEs
+.idea
+.vscode
+.zed
+*.swp
+*.iml
+
+# Mac
+.DS_Store
+._*
+
+# Dependencies and logs
+node_modules
+package-lock.json
+*.log
+
+# Zed extension build output
+grammars
+*.wasm
